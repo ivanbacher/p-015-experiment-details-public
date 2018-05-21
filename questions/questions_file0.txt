@@ -1,0 +1,39 @@
+Question:
+id: D1 (Q1 in paper)
+text: The variable HOUR (line 4) belongs to _________________________
+answer id: 2
+file: file0
+
+Answers:
+id: 1
+text: The global scope (line 1)
+
+id: 2
+text: The scope of toTimeString() (line 2)
+
+id: 3
+text: The scope of calc() (line 11)
+
+id: 4
+text: The scope of countSteps() (line 27)
+
+//-------------------------------
+
+Question:
+id: D2 (Q2 in paper)
+text: The variable res (line 62) belongs to _________________________
+answer id: 3
+file: file0
+
+Answers:
+id: 1 
+text: The global scope (line 1)
+
+id: 2 
+text: The scope of repeat() (line 56)
+
+id: 3 
+text: The scope of if() (line 61)
+
+id: 4 
+text: The scope of while() (line 66)

@@ -1,0 +1,83 @@
+Question:
+id: Q5 (Q7 in paper)
+text: The variable val (line 39) belongs to _________________________
+answer id: 3
+file: file2
+
+Answers:
+id: 1
+text: The global scope (line 1)
+
+id: 2
+text: The scope of gather() (line 26)
+
+id: 3
+text: The scope of while() (line 38)
+
+id: 4
+text: The scope of if() (line 41)
+
+//-------------------------------
+
+Question:
+id: Q6 (Q8 in paper)
+text: The variable length (line 13) belongs to _________________________
+answer id: 3,
+file: file2
+
+Answers
+id: 1
+text: The global scope (line 1)
+
+id: 2
+text: The scope of while() (line 15)
+
+id: 3
+text: The scope of affix() (line 5)
+
+id: 4
+text: The scope of gather() (line 26)
+
+//-------------------------------
+
+Question:
+id: Q7 (Q9 in paper)
+text: The variable temp_value (line 42) belongs to _________________________
+answer: 2
+file: file2
+	
+Answers:
+id: 1
+text: The global scope (line 1)
+
+id: 2
+text: The scope of if() (line 41)
+
+id: 3
+text: The scope of while() (line 38)
+
+id: 4
+text: The scope of gather() (line 26)
+
+//-------------------------------
+
+Question:
+id: Q8 (Q10 in paper)
+text: The variable result (line 60) belongs to _________________________
+answer: 4
+file: file2
+
+Answers:
+id: 1
+text: The global scope (line 1)
+
+id: 2
+text: The scope of makeRepeatable() (line 51)
+
+id: 3
+text: The scope of switch() (line 56)
+
+id: 4
+text: The scope of function(val, i, arr) (line 58)
+
+

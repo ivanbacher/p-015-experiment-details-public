@@ -1,0 +1,29 @@
+uuid: Unique id of participant
+
+group; Group participant was assigned to (A or B) (A = baseline)
+
+qid: Question Id
+
+correct: T/F -> if question was answeed correctly
+
+time: Time it took to complete question
+
+total_time: Total time it took to complete experiment
+
+S1_Q1: How do you estimate your general programming expierence? 1-5
+
+S1_Q2: How do you estimate your programming expierence compared to a programmer with 5 years of expierence? 1-5
+
+S1_Q3: How do you estimate your programming expierence with Python? 1-5
+
+S1_Q4: How do you estimate your programming expierence with Java? 1-5
+
+S1_Q5: How do you estimate your programming expierence with C#? 1-5
+
+S1_Q6: How do you estimate your programming expierence with JavaScript? 1-5
+
+1: Novice
+2: Advanced beginner
+3: Competent
+4: Proficient
+5: Expert

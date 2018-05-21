@@ -1,0 +1,102 @@
+Question:
+id: Q14 (Q16 in paper)
+text: The variable result (line 106) belongs to _________________________
+answer id: 4
+file: file4
+
+Answers:
+id: 1
+text: The global scope (line 1)
+
+id: 2
+text: The scope of forOwn() (line 103)
+
+id: 3
+text: The scope of function(val, key) (line 104)
+
+id: 4
+text: The scope of if() (line 105)
+
+//-------------------------------
+
+Question:
+id: Q15 (Q17 in paper)
+text: The variable c (line 161) belongs to _________________________
+answer id: 2
+file: file4
+
+Answers:
+id: 1
+text: The global scope (line 1)
+
+id: 2
+text: The scope of if() (line 160)
+
+id: 3
+text: The scope of while() (line 164)
+
+id: 4
+text: The scope of calc() (line 145)
+
+//-------------------------------
+
+Question:
+id: Q16 (Q18 in paper)
+text: The variable res (line 76) belongs to _________________________
+answer id: 2
+file: file4
+
+Answers:
+id: 1
+text: The global scope (line 1)
+
+id: 2
+text: The scope of else (line 75)
+
+id: 3
+text: The scope of calc() (line 62)
+
+id: 4
+text: The scope of typecast() (line 55)
+
+//-------------------------------
+
+Question:
+id: Q17 (Q19 in paper)
+text: The variable result (line 44) belongs to _________________________
+answer id: 4
+file: file4
+
+Answers:
+id: 1
+text: The scope of function(aValue) (line 43)
+
+id: 2
+text: The scope of encode() (line 33)
+
+id: 3
+text: The scope of function(val, key) (line 36)
+
+id: 4
+text: The scope of if() (line 37)
+
+//-------------------------------
+
+Question:
+id: Q18 (Q20 in paper)
+text: The variable temp (line 22) belongs to _________________________
+answer id: 1
+file: file4
+
+Answers:
+id: 1
+text: The scope of if() (line 16)
+
+id: 2
+text: The scope of else (line 21)
+
+id: 3
+text: The scope of while() (line 9)
+
+id: 4
+text: The scope of decode() (line 2)
